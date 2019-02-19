@@ -22,7 +22,7 @@ and name it whatever you want.
 The github repo
 ^^^^^^^^^^^^^^^
 
-Why I needed `this section`_.
+Why I needed the "Get the repo" section
 
 So make a new github repo, and upload the bot files to it. Simple,
 right?
@@ -46,5 +46,4 @@ Boom! Your bot should now be online!
 
 .. _here.: dashboard.heroku.com
 .. _the Heroku dashboard: https://dashboard.heroku.com/new-app
-.. _this section: ./#get-the-repo
 .. _over here: dashboard.heroku.com
